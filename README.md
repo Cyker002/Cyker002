@@ -18,11 +18,11 @@
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [Nome do Projeto](https://github.com/seuusuario/repositorio)
-> Breve descrição do projeto <
-
-### 🔹 [Nome do Projeto](https://github.com/seuusuario/repositorio)
-> Breve descrição do projeto <
+### 🔹 [Nome do Projeto]([https://github.com/seuusuario/repositorio](https://github.com/Cyker002/Breakout-in-C))
+Um jogo clássico do estilo Breakout, desenvolvido em C utilizando a biblioteca RayLib.
+O projeto possui gráficos em tempo real e lógica de colisão, aplicando os conceitos fundamentais de programação em C.
+### 🔹 [Nome do Projeto]([https://github.com/seuusuario/repositorio](https://github.com/Cyker002/Java-Clash-Royale))
+Este projeto é desenvolvido inteiramente em Java utilizando a biblioteca JavaFX. O sistema permite gerenciar cartas e decks, incluindo criação, edição, exclusão e visualização.
 
 ---
 
